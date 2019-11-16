@@ -13,6 +13,7 @@
     <!-- Material Design Bootstrap -->
     <link href="css/mdb.min.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
+    <link rel="stylesheet" href="~/css/app.css">
     <link href="css/style.css" rel="stylesheet">
     <link href="Style.css" rel="stylesheet">
     <link rel="script" href="Script.js">
