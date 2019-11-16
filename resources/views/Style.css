@@ -1,0 +1,29 @@
+html, body {
+    height:  100%;
+    width: 100%;
+}body {
+     background-image: url("img/background_site-Train.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+#SearchField
+{
+    background-color: rgba(2,192,130,.80) ;
+    height: 230px;
+    border-radius: 5px;
+
+}
+#defaultRegisterFormFirstName, #defaultRegisterFormLastName, #defaultRegisterFormEmail {
+    height: 58px;
+}
+#SearchRow{
+    padding-top: 130px;
+}
+#btn {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #0b51c5; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+}
