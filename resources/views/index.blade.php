@@ -9,12 +9,11 @@
     <meta name="generator" content="Jekyll v3.8.5">
     <title>Cover Template · Bootstrap</title>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/cover/">
+
 
     <!-- Bootstrap core CSS -->
-    <link href="/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <style>
         .bd-placeholder-img {
             font-size: 1.125rem;
@@ -32,7 +31,7 @@
         }
     </style>
     <!-- Custom styles for this template -->
-    <link href="css/Cover.css" rel="stylesheet">
+    <link href="../../public/css/cover.css" rel="stylesheet">
 </head>
 <body class="text-center">
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
