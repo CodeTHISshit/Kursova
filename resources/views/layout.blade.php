@@ -16,7 +16,7 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="../../public/css/style_index.css" rel="stylesheet">
+    <link href={{asset("../../public/css/style_index.css")}} rel="stylesheet">
 </head>
 <body>
 <nav class="mb-1 navbar navbar-expand-lg  fixed-top text-white">
