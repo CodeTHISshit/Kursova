@@ -13,11 +13,11 @@
     <!-- Bootstrap core CSS -->
 
     <link rel="stylesheet" href="{{asset('bootstrap/css/bootstrap.css')}}">
-
+    <link rel="stylesheet" href="{{asset('css/style_index.css.css')}}">
 
     <!-- Custom styles for this template -->
 
-    <link href="{{ asset('../../public/css/app.css') }}" rel="stylesheet" type="text/css" >
+
 </head>
 <body>
 <nav class="mb-1 navbar navbar-expand-lg  fixed-top text-white">
